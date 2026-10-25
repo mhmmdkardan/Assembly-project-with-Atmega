@@ -1,0 +1,76 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.6</VERSION>
+ <DEVICE>"ATmega64"</DEVICE>
+ <WORKING_DIR>C:\Users\Mamad\Documents\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Mamad\Documents\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc\m64def.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.132\avrasm\inc\M64DEF.INC</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Mamad\Documents\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\Debug\AssemblerApplication4.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>AssemblerApplication4.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>AssemblerApplication4.map</FILE>
+  <FILE>AssemblerApplication4.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <main><FILE>C:\Users\Mamad\Documents\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\main.asm</FILE><LINE>19</LINE></main>
+  <INT0_ISR><FILE>C:\Users\Mamad\Documents\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\main.asm</FILE><LINE>308</LINE></INT0_ISR>
+  <INT1_ISR><FILE>C:\Users\Mamad\Documents\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\main.asm</FILE><LINE>319</LINE></INT1_ISR>
+  <INT2_ISR><FILE>C:\Users\Mamad\Documents\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\main.asm</FILE><LINE>331</LINE></INT2_ISR>
+  <INT3_ISR><FILE>C:\Users\Mamad\Documents\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\main.asm</FILE><LINE>59</LINE></INT3_ISR>
+  <Timer0_ISR><FILE>C:\Users\Mamad\Documents\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\main.asm</FILE><LINE>343</LINE></Timer0_ISR>
+  <loop><FILE>C:\Users\Mamad\Documents\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\main.asm</FILE><LINE>47</LINE></loop>
+  <start><FILE>C:\Users\Mamad\Documents\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\main.asm</FILE><LINE>65</LINE></start>
+  <loop1><FILE>C:\Users\Mamad\Documents\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\main.asm</FILE><LINE>74</LINE></loop1>
+  <BOB><FILE>C:\Users\Mamad\Documents\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\main.asm</FILE><LINE>84</LINE></BOB>
+  <ALICE><FILE>C:\Users\Mamad\Documents\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\main.asm</FILE><LINE>136</LINE></ALICE>
+  <waiterBOB><FILE>C:\Users\Mamad\Documents\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\main.asm</FILE><LINE>91</LINE></waiterBOB>
+  <NEXTBOB><FILE>C:\Users\Mamad\Documents\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\main.asm</FILE><LINE>106</LINE></NEXTBOB>
+  <WAITER2><FILE>C:\Users\Mamad\Documents\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\main.asm</FILE><LINE>109</LINE></WAITER2>
+  <BOBTURN><FILE>C:\Users\Mamad\Documents\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\main.asm</FILE><LINE>118</LINE></BOBTURN>
+  <BOBN><FILE>C:\Users\Mamad\Documents\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\main.asm</FILE><LINE>126</LINE></BOBN>
+  <BACKER><FILE>C:\Users\Mamad\Documents\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\main.asm</FILE><LINE>124</LINE></BACKER>
+  <CHECK><FILE>C:\Users\Mamad\Documents\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\main.asm</FILE><LINE>182</LINE></CHECK>
+  <ROUNDend><FILE>C:\Users\Mamad\Documents\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\main.asm</FILE><LINE>237</LINE></ROUNDend>
+  <waiterALICE><FILE>C:\Users\Mamad\Documents\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\main.asm</FILE><LINE>142</LINE></waiterALICE>
+  <NEXTALICE><FILE>C:\Users\Mamad\Documents\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\main.asm</FILE><LINE>154</LINE></NEXTALICE>
+  <WAITER3><FILE>C:\Users\Mamad\Documents\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\main.asm</FILE><LINE>157</LINE></WAITER3>
+  <ALICETURN><FILE>C:\Users\Mamad\Documents\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\main.asm</FILE><LINE>167</LINE></ALICETURN>
+  <ALICEN><FILE>C:\Users\Mamad\Documents\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\main.asm</FILE><LINE>175</LINE></ALICEN>
+  <BACKER1><FILE>C:\Users\Mamad\Documents\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\main.asm</FILE><LINE>173</LINE></BACKER1>
+  <IS_RIGHT><FILE>C:\Users\Mamad\Documents\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\main.asm</FILE><LINE>189</LINE></IS_RIGHT>
+  <IS_WRONG><FILE>C:\Users\Mamad\Documents\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\main.asm</FILE><LINE>197</LINE></IS_WRONG>
+  <BLINKER_LOOP1><FILE>C:\Users\Mamad\Documents\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\main.asm</FILE><LINE>199</LINE></BLINKER_LOOP1>
+  <DELAY_100><FILE>C:\Users\Mamad\Documents\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\main.asm</FILE><LINE>215</LINE></DELAY_100>
+  <CHECKEND><FILE>C:\Users\Mamad\Documents\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\main.asm</FILE><LINE>230</LINE></CHECKEND>
+  <Loop11><FILE>C:\Users\Mamad\Documents\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\main.asm</FILE><LINE>220</LINE></Loop11>
+  <Loop22><FILE>C:\Users\Mamad\Documents\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\main.asm</FILE><LINE>221</LINE></Loop22>
+  <DRAW><FILE>C:\Users\Mamad\Documents\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\main.asm</FILE><LINE>246</LINE></DRAW>
+  <AWIN><FILE>C:\Users\Mamad\Documents\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\main.asm</FILE><LINE>265</LINE></AWIN>
+  <BWIN><FILE>C:\Users\Mamad\Documents\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\main.asm</FILE><LINE>282</LINE></BWIN>
+  <DDD><FILE>C:\Users\Mamad\Documents\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\main.asm</FILE><LINE>250</LINE></DDD>
+  <DDDD><FILE>C:\Users\Mamad\Documents\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\main.asm</FILE><LINE>254</LINE></DDDD>
+  <ER><FILE>C:\Users\Mamad\Documents\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\main.asm</FILE><LINE>259</LINE></ER>
+  <ENDD><FILE>C:\Users\Mamad\Documents\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\main.asm</FILE><LINE>300</LINE></ENDD>
+  <AAA><FILE>C:\Users\Mamad\Documents\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\main.asm</FILE><LINE>268</LINE></AAA>
+  <AAAA><FILE>C:\Users\Mamad\Documents\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\main.asm</FILE><LINE>271</LINE></AAAA>
+  <ALENDER><FILE>C:\Users\Mamad\Documents\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\main.asm</FILE><LINE>276</LINE></ALENDER>
+  <BBB><FILE>C:\Users\Mamad\Documents\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\main.asm</FILE><LINE>285</LINE></BBB>
+  <BBBB><FILE>C:\Users\Mamad\Documents\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\main.asm</FILE><LINE>288</LINE></BBBB>
+  <BOBENDER><FILE>C:\Users\Mamad\Documents\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\main.asm</FILE><LINE>293</LINE></BOBENDER>
+  <FINISH><FILE>C:\Users\Mamad\Documents\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\main.asm</FILE><LINE>356</LINE></FINISH>
+  <MOSAVI><FILE>C:\Users\Mamad\Documents\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\main.asm</FILE><LINE>361</LINE></MOSAVI>
+  <BOB_BORD><FILE>C:\Users\Mamad\Documents\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\main.asm</FILE><LINE>364</LINE></BOB_BORD>
+  <TAMAM><FILE>C:\Users\Mamad\Documents\Atmel Studio\7.0\AssemblerApplication4\AssemblerApplication4\main.asm</FILE><LINE>367</LINE></TAMAM>
+ </LABELS>
+</ASSEMBLER_INFO>
